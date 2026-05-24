@@ -57,7 +57,7 @@ export default function Navbar() {
         <a href="#privacy" onClick={(e) => handleAnchorClick(e, "#privacy")}>
           Privacy
         </a>
-        <a href="https://apps.apple.com/gb/app/motivv/id6763412889?mt=12Motivv" className="cta">
+        <a href="https://apps.apple.com/gb/app/motivv/id6763412889?mt=12" className="cta">
           Get on Mac App Store
         </a>
       </div>
