@@ -67,7 +67,7 @@ export default function Pricing() {
               </div>
             </div>
 
-            <a href="#" className="cta">
+            <a href="https://apps.apple.com/gb/app/motivv/id6763412889?mt=12Motivv" className="cta">
               Get on Mac App Store
             </a>
             <p className="small">Free download &middot; Unlock with one purchase</p>
