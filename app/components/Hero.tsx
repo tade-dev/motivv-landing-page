@@ -98,6 +98,21 @@ export default function Hero() {
           </a>
         </div>
 
+        <a
+          href="https://www.producthunt.com/products/motivv?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-motivv"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="ph-badge fade-rise"
+        >
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1157589&theme=light&t=1779938459164"
+            alt="Motivv - Know your work rhythm | Product Hunt"
+            width={250}
+            height={54}
+          />
+        </a>
+
         <div className="product fade-rise">
           <div className="product-glow" />
           <div className="mac-window">
